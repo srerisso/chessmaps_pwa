@@ -1,0 +1,7 @@
+{
+  "name": "chessmaps",
+  "short_name": "chessmaps",
+  "description": "map chess tournaments around the world",
+  "start_url": "/",
+  "display": "standalone"
+}
